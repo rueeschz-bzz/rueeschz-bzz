@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm zeno</h1>
-<h3 align="center">A passionate developer from switzerland</h3>
+<h3 align="center">dev</h3>
 
 <p align="left">
 </p>
