@@ -6,6 +6,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rueeschz-bzz](https://github.com/rueeschz-bzz)
 
+- 📫 How to reach me **zenorueesch@proton.me**
+
 <p align="left">
 </p>
 
